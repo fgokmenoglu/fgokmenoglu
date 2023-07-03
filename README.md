@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <div class='container'>
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=fgokmenoglu&show_icons=true&theme=tokyonight" />
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=fgokmenoglu&show_icons=true&theme=highcontrast" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgokmenoglu&theme=tokyonight&langs_count=8&layout=compact" /></div>
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgokmenoglu&theme=highcontrast&langs_count=8&layout=compact" /></div>
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=fgokmenoglu&name=true&top_languages=true&stroke=%23b362ff&theme=midnight_purple)
+![Codewars](https://github.r2v.ch/codewars?user=fgokmenoglu&name=true&top_languages=true&stroke=%23b362ff&theme=highcontrast)
 
 <!--
 **fgokmenoglu/fgokmenoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
