@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=fgokmenoglu&show_icons=true&theme=blue-green" />
+<img style="height: 50; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=fgokmenoglu&show_icons=true&theme=blue-green" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgokmenoglu&theme=blue-green&langs_count=8&layout=compact" /></div>
+<img style="height: 50; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgokmenoglu&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
 
 ![Codewars](https://github.r2v.ch/codewars?user=fgokmenoglu&name=true&top_languages=true&stroke=%23b362ff&theme=midnight_purple)
