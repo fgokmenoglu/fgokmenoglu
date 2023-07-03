@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <div class='container'>
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=fgokmenoglu&show_icons=true&theme=highcontrast&hide_border=true" />
+<img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api?username=fgokmenoglu&show_icons=true&theme=highcontrast&hide_border=true" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgokmenoglu&theme=highcontrast&langs_count=8&layout=compact&hide_border=true" />
-<img style="height: auto; width: 50%;" class="img" src="https://github.r2v.ch/codewars?user=fgokmenoglu&name=true&top_languages=true&stroke=%23b362ff&theme=highcontrast" />
+<img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgokmenoglu&theme=highcontrast&langs_count=8&layout=compact&hide_border=true" />
+<img style="height: auto; width: 60%;" class="img" src="https://github.r2v.ch/codewars?user=fgokmenoglu&name=true&top_languages=true&stroke=%23b362ff&theme=highcontrast" />
 </div>
 
 <!--
