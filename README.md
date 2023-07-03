@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=fgokmenoglu&stroke=&8B0000&theme=gradient)
+![Codewars](https://github.r2v.ch/codewars?user=fgokmenoglu&stroke=blue&theme=gradient)
 
 <!--
 **fgokmenoglu/fgokmenoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
