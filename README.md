@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgokmenoglu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgokmenoglu&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ![Codewars](https://github.r2v.ch/codewars?user=fgokmenoglu&name=true&top_languages=true&stroke=%23b362ff&theme=midnight_purple)
 
 <!--
