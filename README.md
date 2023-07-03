@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div class='container'>
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=fgokmenoglu&show_icons=true&theme=highcontrast" />
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=fgokmenoglu&show_icons=true&theme=highcontrast&hide_border=false" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgokmenoglu&theme=highcontrast&langs_count=8&layout=compact" />
