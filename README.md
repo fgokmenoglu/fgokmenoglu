@@ -5,9 +5,10 @@
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgokmenoglu&theme=highcontrast&langs_count=8&layout=compact" /></div>
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 50%;" class="img" src="https://github.r2v.ch/codewars?user=fgokmenoglu&name=true&top_languages=true&stroke=%23b362ff&theme=highcontrast" /></div>
 </div>
-
-![Codewars](https://github.r2v.ch/codewars?user=fgokmenoglu&name=true&top_languages=true&stroke=%23b362ff&theme=highcontrast)
 
 <!--
 **fgokmenoglu/fgokmenoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
